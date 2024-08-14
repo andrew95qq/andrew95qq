@@ -28,9 +28,4 @@ title="Nginx" width="40" height="40" />&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg"
 title="Postman" width="40" height="40" />&nbsp;
 
-### My stat
-<div id="stat" align="center">
-	<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=andrew95qq&theme=github_dark"/>
-	<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=andrew95qq&theme=github_dark"/>
-	<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=andrew95qq&theme=github_dark"/>
-</div>
+![visitors](https://vbr.nathanchung.dev/badge?page_id=andrew95qq.andrew95qq&color=00cf00)
