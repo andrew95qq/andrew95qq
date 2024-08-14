@@ -21,3 +21,5 @@ title="Celery" width="40" height="40" />&nbsp;
 title="Postgresql" width="40" height="40" />&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg"
 title="Docker" width="40" height="40" />&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nginx/nginx-original.svg"
+title="Nginx" width="40" height="40" />&nbsp;
