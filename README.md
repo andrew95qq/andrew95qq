@@ -1,5 +1,5 @@
 <p align="center">
-    <img src="https://readme-typing-svg.demolab.com/?lines=Hi%20there👋%20I'm%20Andrew!%20Backend%20developer%20🐍&font=Fira%20Code&center=true&width=640&height=45&color=f75c7e&vCenter=true&pause=1000&size=22" /></a>
+    <img src="https://readme-typing-svg.demolab.com/?lines=Hi%20there👋%20I'm%20Andrew!%20Backend%20developer🐍&font=Fira%20Code&center=true&width=640&height=45&color=f75c7e&vCenter=true&pause=1000&size=22" /></a>
 </p>
 
 <div id="socials" align="center">
@@ -8,6 +8,7 @@
 	</a>
 </div>
 
+---
 ### Languages and tools
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"
 title="Python" width="40" height="40" />&nbsp;
