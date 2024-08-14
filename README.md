@@ -15,4 +15,7 @@ title="Python" width="40" height="40" />&nbsp;
 title="Django" width="40" height="40" />&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/redis/redis-original.svg"
 title="Redis" width="40" height="40" />&nbsp;
-
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg"
+title="Postgresql" width="40" height="40" />&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg"
+title="Docker" width="40" height="40" />&nbsp;
