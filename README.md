@@ -1,18 +1,7 @@
-<div id="header" align="center">
-	<h1>Hi there, I'm Andrew 👋</h1>
-	<h3>Backend Developer</h3>
-</div>
-
 <p align="center">
-  <a href="https://github.com/andrew95qq">
-    <img src="https://user-images.githubusercontent.com/20955511/199138068-0a7b7b75-a024-4f00-803f-30a19c5d1b2d.png" alt="Hi there, I'm Andrew 👋" /></a>
+    <img src="https://readme-typing-svg.demolab.com/?lines=Hi%20there👋%20I'm%20Andrew!%20Backend%20developer%20🐍&font=Fira%20Code&center=true&width=640&height=45&color=f75c7e&vCenter=true&pause=1000&size=22" /></a>
 </p>
 
-<p align="center">
-    <img src="https://readme-typing-svg.demolab.com/?lines=Backend%20developer;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&pause=1000&size=22" /></a>
-</p>
-
-![visitors](https://vbr.nathanchung.dev/badge?page_id=andrew95qq.andrew95qq&color=00cf00)
 <div id="socials" align="center">
 	<a href="https://t.me/andrew95qq">
 		<img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
@@ -38,3 +27,5 @@ title="Docker" width="40" height="40" />&nbsp;
 title="Nginx" width="40" height="40" />&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg"
 title="Postman" width="40" height="40" />&nbsp;
+
+![visitors](https://vbr.nathanchung.dev/badge?page_id=andrew95qq.andrew95qq&color=00cf00)
