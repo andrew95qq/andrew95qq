@@ -8,7 +8,7 @@
 	</a>
 </div>
 
-### Languages and tools (some of them I use more often than others😁)
+### Languages and tools
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"
 title="Python" width="40" height="40" />&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/django/django-plain.svg"
