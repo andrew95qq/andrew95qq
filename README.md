@@ -15,7 +15,7 @@ title="Python" width="40" height="40" />&nbsp;
 title="Django" width="40" height="40" />&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/redis/redis-original.svg"
 title="Redis" width="40" height="40" />&nbsp;
-<img src="https://pbs.twimg.com/profile_images/3534818042/cb2fc8174648f5862d73efc33109e8ea_400x400.png"
+<img src="https://docs.celeryq.dev/en/stable/_static/celery_512.png"
 title="Celery" width="40" height="40" />&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg"
 title="Postgresql" width="40" height="40" />&nbsp;
