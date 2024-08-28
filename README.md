@@ -17,6 +17,12 @@
 title="Python" width="40" height="40" />&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/django/django-plain.svg"
 title="Django" width="40" height="40" />&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fastapi/fastapi-original.svg"
+title="FastAPI" width="40" height="40" />&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flask/flask-original.svg"
+title="Flask" width="40" height="40" />&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqlalchemy/sqlalchemy-original.svg"
+title="SQLAlchemy" width="40" height="40" />&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/redis/redis-original.svg"
 title="Redis" width="40" height="40" />&nbsp;
 <img src="https://cdn.worldvectorlogo.com/logos/memcached.svg"
@@ -31,5 +37,6 @@ title="Docker" width="40" height="40" />&nbsp;
 title="Nginx" width="40" height="40" />&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg"
 title="Postman" width="40" height="40" />&nbsp;
+
 
 ![visitors](https://vbr.nathanchung.dev/badge?page_id=andrew95qq.andrew95qq&color=00cf00)
